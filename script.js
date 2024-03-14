@@ -1,4 +1,4 @@
-const APIKEY = "<YourApiKey>"
+const APIKEY = "paste_your_api_key_here";
 const button = document.getElementById("button");
 const audioElement = document.getElementById("audio");
 
